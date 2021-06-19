@@ -11,7 +11,7 @@
 - ⚡️ Fun fact: I love wolves. 
 
 #### Notable Repos
-- 📚 I built a simple Good Reads web-scrapping [app](https://github.com/Goldent00thbrush/GoodReadsRecommender.github.io) built in Python and JavaScript.
+- 📚 I built a simple Goodreads web-scrapping [app](https://github.com/Goldent00thbrush/GoodReadsRecommender.github.io) in Python and JavaScript.
 - 🐱 I built a lolcats meme [generator](https://github.com/Goldent00thbrush/lolcats_meme_generator).
 - 📉 I built a simple wi-fi bandwidth monitor [app](https://github.com/Goldent00thbrush/Bandwidth_Monitor) in Python.
 - 📰 I replicated BBC's front page(2020) using `.html` [BBC replica](https://github.com/Goldent00thbrush/BBC_Clone2020).
