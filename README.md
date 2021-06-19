@@ -1,8 +1,24 @@
-- 👋 Hi, I’m @Goldent00thbrush
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋 
+
+#### I am Aya Hazem.
+- <i>Currently:</i> Data Scientist
+- <i>Previously:</i> Computer Engineering Student at The American University in Cairo. 
+
+#### BIO
+- 🏢 I'm currently working at **Vezeeta**
+- ⚙️ I use daily: `.python`
+- 🌱 I’m currently learning how to build a chatbot from scratch. 
+- ⚡️ Fun fact: I love wolves. 
+
+#### Notable Repos
+- 📚 I built a simple Good Reads web-scrapping [app](https://github.com/Goldent00thbrush/GoodReadsRecommender.github.io) built in Python and JavaScript.
+- 🐱 I built a lolcats meme [generator](https://github.com/Goldent00thbrush/lolcats_meme_generator).
+- 📉 I built a simple wi-fi bandwidth monitor [app](https://github.com/Goldent00thbrush/Bandwidth_Monitor) in Python.
+- 📰 I replicated BBC's front page(2020) using `.html` [BBC replica](https://github.com/Goldent00thbrush/BBC_Clone2020).
+- 📂 (with other developers) I created a [SPEF extractor](https://github.com/Goldent00thbrush/SPEF_Extractor) for DEF/LEF files.
+- 💓 I created a [heart monitor](https://github.com/Goldent00thbrush/Heart_Monitor).
+
+ 
 
 <!---
 Goldent00thbrush/Goldent00thbrush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
