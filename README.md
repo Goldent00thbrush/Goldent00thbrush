@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-#### I am Aya Hazem. Here I share my side projects.
+#### I am Aya Hazem. Here, I share my side projects.
 - <i>Currently:</i> Data Scientist
 - <i>Previously:</i> Computer Engineering Student at The American University in Cairo. 
 
