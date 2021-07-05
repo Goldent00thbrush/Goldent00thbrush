@@ -15,6 +15,7 @@
 - 🐱 I built a lolcats meme [generator](https://github.com/Goldent00thbrush/lolcats_meme_generator).
 - 📉 I built a simple wi-fi bandwidth monitor [app](https://github.com/Goldent00thbrush/Bandwidth_Monitor) in Python.
 - 🍩 I built an ascii rotating [donut](https://github.com/Goldent00thbrush/ascii_donut/tree/main) in c++.
+- 🤖 Some of my machine learning projects [classification](https://github.com/Goldent00thbrush/Titanic_Competiton_Kaggle)
 - 📰 I replicated BBC's front page(2020) using `.html` [BBC replica](https://github.com/Goldent00thbrush/BBC_Clone2020).
 - 📂 (with other developers) I created a [SPEF extractor](https://github.com/Goldent00thbrush/SPEF_Extractor) for DEF/LEF files.
 - 💓 I created a [heart monitor](https://github.com/Goldent00thbrush/Heart_Monitor).
