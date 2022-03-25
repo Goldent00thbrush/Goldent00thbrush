@@ -1,11 +1,11 @@
 ### Hi there 👋 
 
 #### I am Aya Hazem. Here, I share my side projects.
-- <i>Currently:</i> Data Scientist
-- <i>Previously:</i> Computer Engineering Student at The American University in Cairo. 
+- <i>Currently:</i> Marketing Technologist 
+- <i>Previously:</i> Data Scientist, Computer Engineering Student at The American University in Cairo. 
 
 #### BIO
-- 🏢 I'm currently working at **Vezeeta**
+- 🏢 I'm currently working at **P&G**
 - ⚙️ I use daily: `.python`
 - 🌱 I’m currently learning how to build a chatbot from scratch. 
 - ⚡️ Fun fact: I love wolves. 
