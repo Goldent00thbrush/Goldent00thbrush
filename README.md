@@ -1,13 +1,13 @@
 ### Hi there 👋 
 
 #### I am Aya Hazem. Here, I share my side projects.
-- <i>Currently:</i> Marketing Technologist 
-- <i>Previously:</i> Data Scientist, Computer Engineering Student at The American University in Cairo. 
+- <i>Currently:</i> IT Digital & Mobility Engineer  
+- <i>Previously:</i> Marketing Technologist, Data Scientist. 
 
 #### BIO
-- 🏢 I'm currently working at **P&G**
+- 🏢 I'm currently working at **Total Energies**
 - ⚙️ I use daily: `.python`
-- 🌱 I’m currently learning how to build a chatbot from scratch. 
+- 🌱 I’m currently learning how to build a power app from scratch. 
 - ⚡️ Fun fact: I love wolves. 
 
 #### Notable Repos
