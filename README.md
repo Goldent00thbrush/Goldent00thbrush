@@ -11,7 +11,7 @@
 - ⚡️ Fun fact: I love wolves. 
 
 #### Notable Repos
-- 🥷 I created a [Mall Customer Segmentation Agent]([https://github.com/Goldent00thbrush/Heart_Monitor](https://github.com/Goldent00thbrush/Mall-Customer-Segmentation-Agent)) and a [Bank Customer Churn Agent](https://github.com/Goldent00thbrush/Bank-Customer-Churn-Agent).
+- 🥷 I created a [Mall Customer Segmentation Agent](https://github.com/Goldent00thbrush/Mall-Customer-Segmentation-Agent) and a [Bank Customer Churn Agent](https://github.com/Goldent00thbrush/Bank-Customer-Churn-Agent).
 - 📚 I built a simple Goodreads web-scrapping [app](https://github.com/Goldent00thbrush/GoodReadsRecommender.github.io) in Python and JavaScript.
 - 🐱 I built a lolcats meme [generator](https://github.com/Goldent00thbrush/lolcats_meme_generator).
 - 📉 I built a simple wi-fi bandwidth monitor [app](https://github.com/Goldent00thbrush/Bandwidth_Monitor) in Python.
